@@ -12,7 +12,6 @@
 
 # Package Files #
 *.jar
-#*.war
 *.nar
 *.ear
 *.zip
@@ -27,6 +26,8 @@ hs_err_pid*
 /mvnw
 /mvnw.cmd
 /.mvn
+*.xlsx
+*.png
 
 /target/classes
 /target/captcha-*
