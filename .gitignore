@@ -12,7 +12,7 @@
 
 # Package Files #
 *.jar
-*.war
+#*.war
 *.nar
 *.ear
 *.zip
@@ -24,3 +24,11 @@ hs_err_pid*
 
 *.iml
 .idea/*
+/mvnw
+/mvnw.cmd
+/.mvn
+
+/target/classes
+/target/captcha-*
+/target/maven-*
+/target/surefire-reports
