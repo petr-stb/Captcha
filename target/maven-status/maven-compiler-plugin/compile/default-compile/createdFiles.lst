@@ -1,0 +1,11 @@
+ru\kontur\intern\captcha\entities\captchaimage\WordPanel.class
+ru\kontur\intern\captcha\bootmenu\CaptchaApplication.class
+ru\kontur\intern\captcha\entities\captchaimage\ImageInit.class
+ru\kontur\intern\captcha\lists\Users.class
+ru\kontur\intern\captcha\controller\CaptchaController.class
+ru\kontur\intern\captcha\timer\TimerThread.class
+ru\kontur\intern\captcha\entities\CaptchaImage.class
+ru\kontur\intern\captcha\bootmenu\ServletInitializer.class
+ru\kontur\intern\captcha\entities\captchaimage\SymbolCell.class
+ru\kontur\intern\captcha\lists\CaptchaImages.class
+ru\kontur\intern\captcha\entities\User.class
