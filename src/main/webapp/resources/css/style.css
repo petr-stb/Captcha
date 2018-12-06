@@ -1,0 +1,57 @@
+body {
+    background-color: #BDBDBD;
+}
+.basis {
+    background-color: #FFFFFF;
+    font-family: pfhighway,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial;
+    font-size: 18px;
+    border-radius: 7px;
+    box-shadow: 0 5px 0 3px #6E6E6E;
+    padding: 1px 20px 10px 20px;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+h1 {
+    color: #1E72EF;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+}
+input {
+    float: right;
+    color: white;
+    font-size: 18px;
+    padding: .5em 1em calc(.5em + 3px);
+    border-radius: 4px;
+    background-color: #649DF4;
+    box-shadow: 0 4px #6D6D7C;
+    transition: 0.2s;
+    border: 0px;
+    cursor: pointer;
+}
+input:hover {
+    background-color: #1E72EF;
+}
+.button {
+    margin-left: auto;
+    margin-right: 0;
+    height: 56px;
+}
+.image {
+    margin-left: auto;
+    margin-right: auto;
+    width: 320px;
+}
+#publicKey {
+    font-family: Lucida Console,Arial;
+    color: #1E72EF;
+    text-align: center;
+}
+#answerString {
+    background-color: #E6E6E6;
+    margin-right: 20px;
+    color: #000000;
+    font-weight: 500;
+}
